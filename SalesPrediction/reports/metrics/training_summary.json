@@ -1,0 +1,15 @@
+{
+    "selected_model": "Random Forest",
+    "training_records": 160,
+    "testing_records": 40,
+    "cross_validation_rmse": 0.8949715976688759,
+    "test_mae": 0.6139000000000016,
+    "test_rmse": 0.7406495010012032,
+    "test_r2": 0.9826204301171082,
+    "features": [
+        "tv",
+        "radio",
+        "newspaper"
+    ],
+    "target": "sales"
+}
