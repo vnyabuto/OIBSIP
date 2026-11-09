@@ -1,0 +1,3 @@
+label,email_count,average_word_count,median_word_count,average_character_count,average_subject_words
+ham,2750,277.3,139.0,1882.95,5.88
+spam,500,327.27,161.0,2353.84,5.9

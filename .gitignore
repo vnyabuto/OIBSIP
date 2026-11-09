@@ -1,0 +1,6 @@
+EmailSpamDetection/dataset/raw/
+EmailSpamDetection/dataset/processed/
+EmailSpamDetection/reports/error_analysis/all_misclassified_emails.csv
+EmailSpamDetection/reports/error_analysis/false_negatives.csv
+EmailSpamDetection/reports/error_analysis/false_positives.csv
+EmailSpamDetection/reports/metrics/test_predictions.csv

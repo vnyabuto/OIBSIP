@@ -1,0 +1,33 @@
+{
+    "best_model": "Linear SVM",
+    "selection_metric": "Mean cross-validation F1-score",
+    "best_model_metrics": {
+        "Model": "Linear SVM",
+        "CV F1 Mean": 0.9343422914614967,
+        "CV F1 Std": 0.018707561101549804,
+        "CV Precision Mean": 0.9595087190420383,
+        "CV Recall Mean": 0.9116883116883117,
+        "CV Accuracy Mean": 0.980859375,
+        "Test Accuracy": 0.9906396255850234,
+        "Test Precision": 0.96875,
+        "Test Recall": 0.96875,
+        "Test F1": 0.96875,
+        "Test Average Precision": 0.9959054860967406
+    },
+    "random_state": 42,
+    "test_size": 0.2,
+    "cross_validation_folds": 5,
+    "tfidf_configuration": {
+        "stop_words": "english",
+        "max_features": 50000,
+        "ngram_range": [
+            1,
+            2
+        ],
+        "min_df": 2,
+        "max_df": 0.98,
+        "strip_accents": "unicode",
+        "sublinear_tf": true
+    },
+    "generated_at": "2026-11-09T17:21:00.906024"
+}

@@ -1,0 +1,2 @@
+total_test_emails,correct_predictions,incorrect_predictions,true_negatives,false_positives,false_negatives,true_positives,false_positive_rate,false_negative_rate,test_accuracy
+641,635,6,542,3,3,93,0.005504587155963303,0.03125,0.9906396255850234
