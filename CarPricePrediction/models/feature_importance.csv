@@ -1,0 +1,12 @@
+Feature,Importance
+numerical__Present_Price,0.8982671791874344
+numerical__Car_Age,0.07633020817576881
+numerical__Kms_Driven,0.009000477278032569
+categorical__Fuel_Type_Diesel,0.004939289352886855
+categorical__Transmission_Manual,0.004416321007950625
+categorical__Transmission_Automatic,0.003973003926183791
+categorical__Fuel_Type_Petrol,0.0029776259795675493
+categorical__Seller_Type_Dealer,3.9580842768571954e-05
+categorical__Fuel_Type_CNG,2.2984350403526485e-05
+numerical__Owner,1.772894174687146e-05
+categorical__Seller_Type_Individual,1.5600957256643757e-05
